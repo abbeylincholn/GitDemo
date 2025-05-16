@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9fd64f70-2000-4fe8-8440-eec2ea8026f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObject/LoginPage1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/Abbey001_Cucumber/Cucumber_Demo/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/Abbey001_Cucumber/Cucumber_Demo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestRunner1/TestRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestRunner1/TestRun.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObject/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pageObject/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions1/Steps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions1/Steps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObject/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObject/LoginPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1747374240761</updated>
       <workItem from="1747374243259" duration="622000" />
-      <workItem from="1747378173004" duration="292000" />
+      <workItem from="1747378173004" duration="1465000" />
     </task>
     <servers />
   </component>

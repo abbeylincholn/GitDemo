@@ -50,4 +50,8 @@ public class LoginPage {
 		Logout.click();
 	}
 
+	public void clickLogout1() {
+		Logout.click();
+	}
+
 }
