@@ -2,9 +2,7 @@ Alphabets
 a
 b
 c
-d
-egit s
-f
+
 
 Numbers
 1
@@ -15,3 +13,4 @@ Numbers
 6
 7
 8
+
