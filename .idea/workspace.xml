@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9fd64f70-2000-4fe8-8440-eec2ea8026f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObject/LoginPage2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,13 +38,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "JUnit.TestRun.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Engr. Abbey/GitDemo",
+    "last_opened_file_path": "C:/Users/Engr. Abbey/GitX",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,32 +52,18 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="pageObject" />
-    </key>
-  </component>
   <component name="RunManager">
-    <configuration name="TestRun" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Cucumber_Demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TestRunner1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="TestRunner1" />
-      <option name="MAIN_CLASS_NAME" value="TestRunner1.TestRun" />
-      <option name="TEST_OBJECT" value="class" />
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="GitX" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.TestRun" />
-      </list>
-    </recent_temporary>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="GitX" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -98,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1747374240761</updated>
       <workItem from="1747374243259" duration="622000" />
-      <workItem from="1747378173004" duration="2222000" />
+      <workItem from="1747385860196" duration="1131000" />
     </task>
     <servers />
   </component>
